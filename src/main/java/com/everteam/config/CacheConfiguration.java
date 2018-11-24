@@ -40,6 +40,7 @@ public class CacheConfiguration {
             cm.createCache(com.everteam.domain.User.class.getName() + ".authorities", jcacheConfiguration);
             cm.createCache(com.everteam.domain.PersistentToken.class.getName(), jcacheConfiguration);
             cm.createCache(com.everteam.domain.User.class.getName() + ".persistentTokens", jcacheConfiguration);
+            cm.createCache(com.everteam.domain.Player.class.getName(), jcacheConfiguration);
             // jhipster-needle-ehcache-add-entry
         };
     }
