@@ -33,6 +33,8 @@
     "nativeLanguage": "en",
     "languages": [
       "en"
-    ]
+    ],
+    "herokuAppName": "foot-everteam",
+    "herokuDeployType": "git"
   }
 }

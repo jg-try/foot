@@ -1,0 +1,25 @@
+{
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "score",
+            "fieldType": "Long"
+        }
+    ],
+    "changelogDate": "20181124180925",
+    "dto": "no",
+    "searchEngine": false,
+    "service": "no",
+    "entityTableName": "player",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no"
+}
