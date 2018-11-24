@@ -32,7 +32,8 @@
     "enableTranslation": true,
     "nativeLanguage": "en",
     "languages": [
-      "en"
+      "en",
+      "fr"
     ],
     "herokuAppName": "foot-everteam",
     "herokuDeployType": "git"
