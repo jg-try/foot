@@ -48,13 +48,11 @@
         "messages": {
             "info": {
                 "authenticated": {
-                    "prefix": "Si vous voulez vous ",
-                    "link": "connecter",
-                    "suffix": ", vous pouvez utiliser les comptes par défaut : <br/> - Administrateur (nom d'utilisateur=\"admin\" et mot de passe =\"admin\") <br/> - Utilisateur (nom d'utilisateur=\"user\" et mot de passe =\"user\")."
+                    "link": "Se Connecter"
                 },
                 "register": {
-                    "noaccount": "Vous n'avez pas encore de compte ?",
-                    "link": "Créer un compte"
+                    "noaccount": "Tu n'as pas encore de compte ?",
+                    "link": "Créer ton compte"
                 }
             },
             "error": {
@@ -131,5 +129,5 @@
         "idexists": "Une nouvelle entité {{entityName}} ne peut pas avoir d'ID !",
         "idnull": "Invalid ID"
     },
-    "footer": "Ceci est votre pied de page"
+    "footer": "www.everteam.com"
 }
